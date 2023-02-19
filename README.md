@@ -1,3 +1,5 @@
+Fixed recent change that broke the code ( import library as model_util )
+
 # LoRA-EXTRACTOR
 A small script to facilitate the extraction of LoRA models from custom checkpoints.
 
